@@ -1,0 +1,18 @@
+{
+    "name": "matt/php-jwt",
+    "description": "Belajar Session Management PHP dengan JWT",
+    "autoload": {
+        "psr-4": {
+            "Matt\\PhpJwt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rachmat Ardico Perdana",
+            "email": "rahmatardiko99@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "5.2.1"
+    }
+}
